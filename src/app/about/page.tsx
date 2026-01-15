@@ -216,7 +216,7 @@ const About = () => {
                                      </div>
                                 </div>
                                 <Image 
-                                    src="/about-ui.png" 
+                                    src="/Why We Exist.png" 
                                     alt="UI Visualization" 
                                     width={800}
                                     height={600}
